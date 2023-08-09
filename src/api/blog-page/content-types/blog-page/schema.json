@@ -72,7 +72,7 @@
     "meta_description": {
       "type": "string"
     },
-    "meta_tags": {
+    "meta_keywords": {
       "type": "string"
     }
   }
