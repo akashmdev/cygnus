@@ -65,6 +65,15 @@
       "type": "component",
       "repeatable": false,
       "component": "container.editor"
+    },
+    "meta_title": {
+      "type": "string"
+    },
+    "meta_description": {
+      "type": "string"
+    },
+    "meta_tags": {
+      "type": "string"
     }
   }
 }
